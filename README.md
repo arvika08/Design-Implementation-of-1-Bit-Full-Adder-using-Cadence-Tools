@@ -19,7 +19,7 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 ### 1. Launch Cadence Virtuoso Environment:
 - Open the **Cadence Virtuoso** tool and set up the working library.
 - Create a new **schematic cell view** for the 1-bit Full Adder design.
-
+  
 ### 2. Schematic Design:
 - Select **NMOS and PMOS transistors** from the library.
 - Construct the **Full Adder circuit** using **CMOS**.
